@@ -85,9 +85,6 @@ header nav ul li a {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-.benefits{
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -95,6 +92,10 @@ header nav ul li a {
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
+}
+
+.benefits p{
+    margin-bottom: 30px;
 }
 
 .benefits img {
