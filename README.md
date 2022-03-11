@@ -4,5 +4,5 @@ Horiseon is a marketing firm that assits its clients in sales lead generation th
 
 ![screenshot](https://i.imgur.com/pRBY9Ya.png)
 
-# Website
+# Link
 https://skiddzie.github.io/Horiseon/
